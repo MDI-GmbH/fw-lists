@@ -253,7 +253,8 @@ class TestListWriting(unittest.TestCase):
         # Exclusions file should contain excluded item
         with open(exclusions_path, "r", encoding="utf-8") as f:
             excl_content = f.read()
-            assert "dns.google.com" in excl_content
+            excl_entries = {line.strip() for line in excl_content.splitlines() if line.strip()}
+            assert "dns.google.com" in excl_entries
     
     def test_filter_base_domains_flag(self):
         """Test --filter-base-domains behavior."""
