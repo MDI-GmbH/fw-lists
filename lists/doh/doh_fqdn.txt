@@ -66,6 +66,7 @@ dns.google
 dns.guard.io
 dns.haka.se
 dns.hostux.net
+dns.hqdns.sarl
 dns.inforlogia.com
 dns.kapite.in
 dns.kernel-error.de
@@ -124,6 +125,7 @@ dns4eu.online
 dns64.cloudflare-dns.com
 dns64.dns.google
 dns9.quad9.net
+dnsdoh.art
 dnslow.me
 dnspub.restena.lu
 dnsvps.familiamv.net

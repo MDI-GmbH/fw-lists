@@ -5,6 +5,7 @@ cloudflare-dns.com
 dns.google
 dns.pub
 dns4eu.online
+dnsdoh.art
 dnslow.me
 doh.beauty
 doh.buzz
