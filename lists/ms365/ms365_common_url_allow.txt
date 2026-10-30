@@ -1,6 +1,5 @@
 *.auth.microsoft.com
 *.msftidentity.com
-*.msidentity.com
 *.officeapps.live.com
 *.online.office.com
 *.protection.office.com
@@ -10,7 +9,6 @@ accounts.accesscontrol.windows.net
 adminwebservice.microsoftonline.com
 api.passwordreset.microsoftonline.com
 autologon.microsoftazuread-sso.com
-becws.microsoftonline.com
 ccs.login.microsoftonline.com
 clientconfig.microsoftonline-p.net
 companymanager.microsoftonline.com
@@ -30,6 +28,5 @@ nexus.microsoftonline-p.com
 office.live.com
 passwordreset.microsoftonline.com
 protection.office.com
-provisioningapi.microsoftonline.com
 purview.microsoft.com
 security.microsoft.com
