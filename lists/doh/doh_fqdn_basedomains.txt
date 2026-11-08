@@ -1,6 +1,7 @@
 ﻿8888.google
 adfreedns.top
 bazooki-infra.dev
+beatquantum.com
 cloudflare-dns.com
 dns.google
 dns.pub
