@@ -12,6 +12,7 @@ doh.buzz
 doh.li
 dukun.de
 hnsdoh.com
+ledns.eu
 loadlow.me
 masters-of-cloud.de
 regiopolis.cloud

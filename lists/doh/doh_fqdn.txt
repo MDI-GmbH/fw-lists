@@ -25,6 +25,7 @@ child-noads.joindns4.eu
 child.joindns4.eu
 chuncheon.dnsovertor.cc
 cloudflare-dns.com
+ctif.hagezi.org
 de01.dns4me.net
 dns.a47.me
 dns.aa.net.uk
@@ -44,7 +45,6 @@ dns.cert.ee
 dns.chenu.ch
 dns.christerwaren.fi
 dns.chunghwamc.com
-dns.comss.one
 dns.cynthialabs.net
 dns.d94.xyz
 dns.datenquark.de
@@ -107,7 +107,6 @@ dns.smartguard.io
 dns.startupstack.tech
 dns.stirringphoto.com
 dns.switch.ch
-dns.t53.de
 dns.telekom.de
 dns.tipsy.coffee
 dns.tls-data.de
@@ -170,6 +169,7 @@ ie01.dns4me.net
 japan.dnsovertor.cc
 juuri.hagezi.org
 kronos.plan9-dns.com
+ledns.eu
 loadlow.me
 masters-of-cloud.de
 mozilla.cloudflare-dns.com
@@ -205,7 +205,6 @@ tiger.dns.qwer.pw
 uk01.dns4me.net
 unfiltered.adguard-dns.com
 unfiltered.joindns4.eu
-us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
 us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
